@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DependencyManagement.Core</id>
+    <version>1.0.0.7</version>
+    <title>Core</title>
+    <authors>Josiah Ruddell</authors>
+    <owners>Alkami</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Desc</description>
+    <copyright>Copyright 2012</copyright>
+  </metadata>
+  <files>
+    <file src="..\src\DependencyManagement.Core\bin\Debug\*.dll" target="lib\net40" />
+    <file src="..\src\DependencyManagement.Core\bin\Debug\*.pdb" target="lib\net40" />
+  </files>
+</package>
